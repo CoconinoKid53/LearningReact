@@ -10,3 +10,4 @@ function card({title, paragraph, image})
 </section>)
 }
 export default card
+1
